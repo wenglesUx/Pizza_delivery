@@ -1,0 +1,41 @@
+.container{
+    position: relative;
+}
+
+.main-cart{
+    position: relative;
+    height: 40px;
+}
+.promotion-banner{
+    background-color:orange;
+    height:200px;
+    margin: 40px 0;
+}
+.product-area{
+    height: auto;
+}
+.footer-content {
+    height: auto;
+    padding: 10px 0;
+}
+form{
+    position:relative;
+}
+#searchbar{
+    width:400px;
+    height:40px;
+    border-radius:15px;
+    outline: none;
+    border:.5px solid gray;
+    box-shadow:1px 1px 1px gray
+}
+#searchBtn{
+    position:absolute;
+    right: 0;
+    border:none;
+    background: none;
+    height: 40px;
+    width:40px;
+    margin-right:5px;
+    opacity: .5;
+}
